@@ -290,11 +290,10 @@ The mobile menu doesn't close when clicking outside, and the form submission doe
 Overall thoughts on comparison
 3.5 vs 3 vs Deepseek-R1
 
-| Metric    | 3 | 3.5 | R1|
+| Metric    | V1 (3.5) | V2 (3) | V3 (R1)|
 | -------- | ------- | -------- | -------- |
-| Total Dev Time  | 3 hours  | 3 hours | 3 hours |
-| # of iterations required |      | 49 | -------- |
-| Bug fix success rate    |     | 100% |  |
-| Code Quality Metrics    |     | 8/10 | -------- |
-
+| Total Dev Time  | 4 hours  | 3 hours | 3 hours |
+| # of iterations required | 49 | 42 | 45 |
+| Bug fix success rate    | 100% | <100% | 100% |
+| Code Quality Metrics    |   8/10  | 7/10 | 7.4/10 |
 
