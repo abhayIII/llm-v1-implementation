@@ -1,5 +1,6 @@
 # llm-v1-implementation
 # LLM Comparison Test Procedure for Web Development
+# V1 will be Claude Sonnet 3.5, V2 will be Cluade Sonnet 3 and V3 will be Deepseek-R1
 
 ## Phase 1: Initial Setup
 
@@ -159,4 +160,4 @@ The mobile menu doesn't close when clicking outside, and the form submission doe
    - Check browser compatibility
    - Validate accessibility
 
-## This V1 is developed using Claude 3 Sonnet version in cursor chat
+## This V1 is developed using Claude 3.5 Sonnet version in cursor chat
