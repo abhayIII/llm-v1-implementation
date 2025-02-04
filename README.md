@@ -5,9 +5,10 @@
 
 ### Create Test Project
 1. Create a new directory: `llm-comparison-test`
-2. Create two subdirectories:
+2. Create subdirectories:
    - `llm-v1-implementation`
    - `llm-v2-implementation`
+   - `llm-v3-implementation`
 3. Initialize a new git repository in each subdirectory
 
 ### Document Setup
